@@ -2,73 +2,73 @@
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-Regular.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-Regular.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-RegularItalic.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-RegularItalic.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-Light.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-Light.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-LightItalic.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-LightItalic.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-Medium.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-Medium.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-MediumItalic.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-MediumItalic.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-Semibold.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-Semibold.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-SemiboldItalic.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-SemiboldItalic.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-Bold.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-Bold.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-BoldItalic.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-BoldItalic.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-Heavy.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-Heavy.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Text';
     font-style: normal;
     font-weight: normal;
-    src: local('SF UI Text'), url('SFUIText-HeavyItalic.woff') format('woff');
+    src: local('SF UI Text'), url('https://github.com/T3RRY4/small-changes-ds-theme/blob/master/SFUIText-HeavyItalic.woff') format('woff');
 }
 
 :root {
