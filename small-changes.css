@@ -1,16 +1,89 @@
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-RegularItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-LightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-MediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-Semibold.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-SemiboldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-BoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-Heavy.woff') format('woff');
+}
+@font-face {
+    font-family: 'SF UI Text';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Text'), url('SFUIText-HeavyItalic.woff') format('woff');
+}
+
 :root {
-    --font: 'SF UI Display', sans-serif !important;
+    --font: 'SF UI Text', sans-serif !important;
     --accentcolor: 56,137,217;		/* blurple - default: 114,137,218 */
 	--linkcolor: 56,137,217;			/* link - default: 0,176,244 */
 }
 body {
-    font-family: 'SF UI Display', sans-serif !important
+    font-family: 'SF UI Text', sans-serif !important
 }
 input[type="text"] {
-    font-family: 'SF UI Display', sans-serif !important
+    font-family: 'SF UI Text', sans-serif !important
 }
 ::placeholder {
-    font-family: 'SF UI Display', sans-serif !important
+    font-family: 'SF UI Text', sans-serif !important
 }
 code {
     font-family: 'Fira Mono', monospace !important
