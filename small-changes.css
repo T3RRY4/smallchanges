@@ -73,8 +73,8 @@
 
 :root {
     --font: 'SF UI Text', sans-serif !important;
-    --accentcolor: 56,137,217;		/* blurple - default: 114,137,218 */
-	--linkcolor: 56,137,217;			/* link - default: 0,176,244 */
+    --accentcolor: 56,137,217;
+	--linkcolor: 56,137,217;
 }
 body {
     font-family: 'SF UI Text', sans-serif !important
