@@ -1,0 +1,23 @@
+:root {
+    --font: 'SF UI Display', sans-serif !important;
+    --accentcolor: 56,137,217;		/* blurple - default: 114,137,218 */
+	--linkcolor: 56,137,217;			/* link - default: 0,176,244 */
+}
+body {
+    font-family: 'SF UI Display', sans-serif !important
+}
+input[type="text"] {
+    font-family: 'SF UI Display', sans-serif !important
+}
+::placeholder {
+    font-family: 'SF UI Display', sans-serif !important
+}
+code {
+    font-family: 'Fira Mono', monospace !important
+}
+.theme-dark .edited-DL9ECl {
+    display: none;
+}
+.welcomeMessage-3_Mcht {
+    display: none;
+}
